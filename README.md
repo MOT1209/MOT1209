@@ -1,76 +1,32 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B,+I'm+Rashid+(Alking);Full-Stack+%26+AI+Systems+Architect;Building+Multi-Agent+AI+Frameworks;3D+Simulation+%26+Web3D+Developer" alt="Typing SVG" />
+</h1>
 
-# 👋 مرحباً، أنا راشد (Alking)
+<p align="center">
+  <b>Full-Stack Developer</b> specializing in <b>Multi-Agent AI Systems</b>, <b>Next.js 14</b>, and <b>3D Web Simulations</b>.
+</p>
 
-### **Full-Stack Developer & AI Systems Builder**
+<p align="center">
+  <a href="https://youtube.com/@البرمجيات"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@programmierlabor"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://mot1209.github.io/mein-wep"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:zwnt45602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MOT1209&color=blueviolet&style=for-the-badge)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@البرمجيات)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@programmierlabor)
-[![Website](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=firefox&logoColor=white)](https://mot1209.github.io/mein-wep)
-
----
-
-> مطور شغوف ببناء أنظمة الذكاء الاصطناعي متعددة الوكلاء (Multi-Agent Systems)، منصات الويب الحديثة، والتطبيقات التفاعلية ثلاثية الأبعاد.
-
-</div>
-
----
-
-### 🚀 عني (About Me)
-
-- ⚡ **التركيز الحالي:** تطوير أنظمة الذكاء الاصطناعي المستقلة والوكلاء الموجهين (AI Agents & Multi-Agent Frameworks).
-- 💻 **بناء المشاريع:** منصات ويب باستخدام **Next.js 14**, **Supabase**, و **TypeScript**.
-- 🎮 **تجارب ثلاثية الأبعاد:** إنشاء العوالم التفاعلية والمحاكاة باستخدام **Three.js**.
-- 🎬 **صناعة المحتوى:** أشارك شروحات وتجارب تقنية على YouTube و TikTok.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MOT1209&color=indigo&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
-### 🛠️ الأدوات والتقنيات (Tech Stack)
+### 🧬 About Me
 
-<div align="center">
-
-| المجال | التقنيات والأدوات |
-| :--- | :--- |
-| **Frontend** | `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Three.js` |
-| **Backend & DB** | `Python` `JavaScript` `Node.js` `Supabase` `Firebase` |
-| **AI & Multi-Agents** | `CrewAI` `Claude Code Agents` `MCP (Model Context Protocol)` |
-| **Mobile & Other** | `Kotlin` `Dart / Flutter` `Git & GitHub` |
-
-</div>
-
----
-
-### ⭐ أبرز المشاريع (Featured Projects)
-
-<div align="center">
-
-| المشروع | الوصف | التقنيات |
-| :--- | :--- | :--- |
-| 🤖 **[EDITOR.AI](https://github.com/MOT1209/EDITOR.AI)** | نظام تحرير فيديو ذكي يعتمد على فريق وكلاء ذكاء اصطناعي متعدد. | `TypeScript` `AI Agents` |
-| 🤖 **[KingAgent](https://github.com/MOT1209/KingAgent)** | إطار عمل وتدفقات عمل للوكلاء الأذكياء ومساحات العمل الاحترافية. | `JavaScript` `Orchestration` |
-| 🌐 **[Tarjim](https://github.com/MOT1209/Tarjim)** | منصة ترجمة وتدبيل وسائط ذكية. | `JavaScript` `AI Audio/Text` |
-| 🔗 **[king-colab-MCP](https://github.com/MOT1209/king-colab-MCP)** | ربط بروتوكولات سياق النماذج مع بيئات Colab. | `Python` `MCP` |
-
-</div>
-
----
-
-### 📊 إحصائيات GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MOT1209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOT1209&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 تواصل معي
-
-📧 **البريد الإلكتروني:** [zwnt45602@gmail.com](mailto:zwnt45602@gmail.com)
-
-</div>
+```yaml
+Developer: Rashid (MOT1209)
+Role: Full-Stack & AI Orchestration Engineer
+Focus: Multi-Agent Systems, Autonomous Workflows, Web3D
+Current_Projects:
+  - EDITOR.AI: Multi-agent video processing engine
+  - KingAgent: Agentic workspace & runtime orchestrator
+  - Tarjim: AI dubbing & translation pipeline
+Tech_Philosophy: "Automation through Intelligent Multi-Agent Collaboration"
